@@ -3,14 +3,6 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-/* main{
-    border-radius: 8px;
-    background-color: rgb(192, 192, 192); 
-    padding: 4px; 
-    color: #202020;
-    grid-area: main;
-} */
-
 h1, h2{
     color: blue;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -35,23 +27,12 @@ h3{
     padding-left: 50px;
 }
 
-
-/* .experience{
-    border-radius: 25px;
-    border: inset 1px;
-    margin-bottom: 4px;
-    padding: 4px;
-    background-color: white;
-    color: #222;
-} */
-
 .heading{
     font-weight: bold;
     text-align: center;
     padding-top: 75px;
     color: blue;
 }
-
 
 .button {
     padding: 15px 25px 15px 25px;
@@ -61,24 +42,6 @@ h3{
     color: white;
 }
 
-
-footer{
-    text-align: center;
-    background-color: #202020;
-    color: rgb(255, 255, 255);
-    position: fixed;
-    bottom: 0px;
-    left: 0px;
-    width: 100%;
-    grid-area: footer;
-}
-
-/* #menu li{
-    padding: 15px 25px 15px 25px;
-    background-color: rgb(243, 104, 104);
-    display: inline;
-    border-radius: 100px;
-}
 
 #menu li a{
     color: rgb(255, 255, 255) !important;
@@ -91,32 +54,4 @@ footer{
 
 #menu{
     float: right;
-} */
-
-/* header{
-    display: flex;
-    justify-content: start; 
-    align-items: center;
-    grid-area: header;
-} */
-
-/* header #menu{
-    margin-left: auto;
 }
-header #siteName{
-    align-items: center;
-} */
-/* header #siteName{
-    display: inline;
-    vertical-align: middle;
-} */
-/* 
-.container{
-    display: grid;
-    grid-template-areas: 
-    "header header"
-    "main aside"
-    "footer footer";
-    grid-template-columns: auto 200px;
-    grid-gap: 8px;
-} */
