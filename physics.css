@@ -43,14 +43,6 @@ h3{
 }
 
 
-.button:hover {
-    padding: 25px 35px 25px 35px;
-    backgroung-color: white;
-    border: black 4px;
-    color: black;
-}
-
-
 #menu li a{
     color: rgb(255, 255, 255) !important;
     text-decoration: none;
