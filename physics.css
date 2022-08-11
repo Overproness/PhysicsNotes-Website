@@ -20,6 +20,7 @@ h3{
     color: white;
     border: white;
     background-image: linear-gradient(to bottom right, #d95c5c, #d95c5c);
+    cursor: pointer;
 }
 
 .firstYear li{
@@ -39,7 +40,8 @@ h3{
     border-radius: 100px;
     border: white;
     background-image: linear-gradient(to bottom right, rgba(0, 0, 255, 0.726), rgba(128, 0, 128, 0.712));
-    color: white;
+    color: white;  
+    cursor: pointer;
 }
 
 
